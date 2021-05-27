@@ -2,9 +2,10 @@
 
 - For machine learning, all the codes are written using Python in Jupyter notebook. 
 
-Assignment 1:
+Assignment_LDA:
 
-
+- Topics covered here are: LDA and PCA with LDA
+- Dataset used here are: Iris dataset from sklearn, dataset_1.
 
 Project:
 
