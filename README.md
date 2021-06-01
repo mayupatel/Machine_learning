@@ -1,6 +1,11 @@
 # Machine learning
 
-- For machine learning, all the codes are written using Python in Jupyter notebook. 
+- For machine learning, all the codes are written using Python in Jupyter notebook. With the code file, dataset files are uploaded.
+
+Assignment_LDA:
+
+- Topics covered here are: PCA analysis - scree plot, scores plot, loadings plot, adding PC1 axis
+- Dataset used here are: two dataset prob3 and prob4 for PCA analysis.
 
 Assignment_LDA:
 
