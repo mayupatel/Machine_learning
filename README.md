@@ -7,6 +7,10 @@ ML_toolbox:
 - Topics covered here are: data modeling and PCA analysis class 
 - Dataset used here are: It goes with any dataset
 
+ML_DimensionRed:
+
+- Topics covered here are: complete PCA analysis code
+
 Assignment_LDA:
 
 - Topics covered here are: PCA analysis - scree plot, scores plot, loadings plot, adding PC1 axis
