@@ -10,6 +10,7 @@ ML_toolbox:
 ML_DimensionRed:
 
 - Topics covered here are: complete PCA analysis code
+- Dataset used here are: dataset_1 and SCLC_study_output data
 
 Assignment_LDA:
 
