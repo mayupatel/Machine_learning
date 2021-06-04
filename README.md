@@ -12,7 +12,12 @@ ML_DimensionRed:
 - Topics covered here are: complete PCA analysis code
 - Dataset used here are: dataset_1 and SCLC_study_output data
 
-Assignment_LDA:
+ML_clustering:
+
+- Topics covered here are: K-means clustering and Kmeans with PCA
+- Dataset used here are: Iris data and SCLC_study_output data
+
+Assignment_PCA:
 
 - Topics covered here are: PCA analysis - scree plot, scores plot, loadings plot, adding PC1 axis
 - Dataset used here are: two dataset prob3 and prob4 for PCA analysis.
