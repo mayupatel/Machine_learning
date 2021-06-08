@@ -17,6 +17,11 @@ ML_clustering:
 - Topics covered here are: K-means clustering and Kmeans with PCA
 - Dataset used here are: Iris data and SCLC_study_output data
 
+ML_classification:
+
+- Topics covered here are: LDA analysis and PCA with LDA
+- Dataset used here are: Iris data and SCLC_study_output data, and toy_data_LDA
+
 Assignment_PCA:
 
 - Topics covered here are: PCA analysis - scree plot, scores plot, loadings plot, adding PC1 axis
