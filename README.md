@@ -19,7 +19,7 @@ ML_clustering:
 
 ML_classification:
 
-- Topics covered here are: LDA analysis and PCA with LDA
+- Topics covered here are: LDA analysis, PCA with LDA, kmeans and hierarchical clustering, and logistic regression
 - Dataset used here are: Iris data and SCLC_study_output data, and toy_data_LDA
 
 Assignment_PCA:
